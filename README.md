@@ -6,4 +6,4 @@ This is created by using BFS (Breadth First Search) to find the fastest pather t
 
 An example of the code running is below:
 
-![](image/MzePathFinder.gif)
+![](image/MazePathGIF.gif)
